@@ -1,0 +1,17 @@
+Prediction,Reference,Freq,Model
+0,0,461,logistic_target_RT
+1,0,339,logistic_target_RT
+0,1,3,logistic_target_RT
+1,1,13,logistic_target_RT
+0,0,462,RF_target_RT
+1,0,340,RF_target_RT
+0,1,2,RF_target_RT
+1,1,12,RF_target_RT
+0,0,361,logistic_target_RT_norm
+1,0,105,logistic_target_RT_norm
+0,1,103,logistic_target_RT_norm
+1,1,247,logistic_target_RT_norm
+0,0,405,randomForest_target_RT_norm
+1,0,167,randomForest_target_RT_norm
+0,1,59,randomForest_target_RT_norm
+1,1,185,randomForest_target_RT_norm

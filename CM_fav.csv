@@ -1,0 +1,17 @@
+Prediction,Reference,Freq,Model
+0,0,464,logistic_target_fav
+1,0,348,logistic_target_fav
+0,1,0,logistic_target_fav
+1,1,4,logistic_target_fav
+0,0,382,RF_target_fav
+1,0,433,RF_target_fav
+0,1,0,RF_target_fav
+1,1,1,RF_target_fav
+0,0,274,logistic_target_fav_norm
+1,0,62,logistic_target_fav_norm
+0,1,108,logistic_target_fav_norm
+1,1,372,logistic_target_fav_norm
+0,0,240,randomForest_target_fav_norm
+1,0,64,randomForest_target_fav_norm
+0,1,142,randomForest_target_fav_norm
+1,1,370,randomForest_target_fav_norm

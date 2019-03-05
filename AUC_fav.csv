@@ -1,0 +1,3 @@
+"","model_AUC","logistic_target_fav","randomForest_target_fav","logistic_target_fav_norm","RF_target_fav_norm"
+"1","train",0.824542502951594,0.741682039551358,0.88386933648083,0.87920732670487
+"2","test",0.805571354385618,0.394112119488612,0.862019567158057,0.83963254276546
